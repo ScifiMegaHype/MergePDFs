@@ -10,10 +10,10 @@ To convert the python file to an exe, run `python -m PyInstaller --onefile -w --
 
 # Usage
 1. Install dependecies<br/>
-2a. Run the merge_pdfs.py<br/>
+2. Run the merge_pdfs.py<br/>
          **OR**<br/>
-2b. Run the merge_pdfs.exe<br/>
-4. Add, Combine and Enjoy.
+2. Run the merge_pdfs.exe<br/>
+3. Add, Combine and Enjoy.
 
 ---
 
