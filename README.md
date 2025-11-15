@@ -9,7 +9,7 @@ Built with **python**.
 To convert the python file to an exe, run `python -m PyInstaller --onefile -w --icon="adobe.ico" --add-data "adobe.ico;." merge_pdfs.py`
 
 # Usage
-1. Run the merge_pdfs.py python code<br/>
+1. Run the merge_pdfs.py<br/>
          **OR**<br/>
 2. Run the merge_pdfs.exe<br/>
         **THEN**<br/><br/>
